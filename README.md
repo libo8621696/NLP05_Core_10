@@ -18,3 +18,9 @@
 python3 train.py
 ```
 
+得到如下结果：
+![RESULT1](运行结果1.png)
+![RESULT2](运行结果2.png)
+![RESULT3](运行结果3.png)
+
+通过early stop得到使用batch得到的准确度为98.4375%,但是评估得到的准确度最高为16.87%
